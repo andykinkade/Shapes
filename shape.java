@@ -12,4 +12,10 @@ public class shape {
 		this.area = 0.0;
 		this.type ="";
 	}
+
+	public shape(int x, flaot y, String name) {
+		this.sides = sides;
+		this.area = area;
+		this.type = name;
+	}
 }
